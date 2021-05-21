@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Robert Godoy Bialli Junior</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulrobertjr" alt="paulrobertjr" /></a> </p>
-
 - 🔭 I’m currently working on [React Template for Admin Panels](https://github.com/inovando/cra-template-inovando)
 
 - 🌱 I’m currently learning **React and JavaScript**
